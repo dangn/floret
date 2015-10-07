@@ -1,0 +1,24 @@
+{
+  "name": "floret",
+  "version": "0.0.1",
+  "description": "Akka inspired actor model - highly experimental",
+  "author": "Dang Nguyen",
+  "license": "MIT",
+  "main": "system.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [
+    "actor",
+    "akka"
+  ],
+
+
+  "dependencies": {
+  },
+
+  "devDependencies": {
+  }
+}
